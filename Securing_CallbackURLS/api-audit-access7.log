@@ -1,0 +1,35 @@
+Array
+(
+    [DOCUMENT_ROOT] => /var/www/html/assets/Daraja
+    [REMOTE_ADDR] => 127.0.0.1
+    [REMOTE_PORT] => 47092
+    [SERVER_SOFTWARE] => PHP 7.4.3 Development Server
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_NAME] => localhost
+    [SERVER_PORT] => 81
+    [REQUEST_URI] => /callback_url_old.php
+    [REQUEST_METHOD] => POST
+    [SCRIPT_NAME] => /callback_url_old.php
+    [SCRIPT_FILENAME] => /var/www/html/assets/Daraja/callback_url_old.php
+    [PHP_SELF] => /callback_url_old.php
+    [HTTP_HOST] => d592-197-232-123-112.eu.ngrok.io
+    [HTTP_USER_AGENT] => Apache-HttpClient/4.5.5 (Java/1.8.0_251)
+    [CONTENT_LENGTH] => 187
+    [HTTP_CONTENT_LENGTH] => 187
+    [HTTP_ACCEPT] => image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*
+    [HTTP_ACCEPT_CHARSET] => iso-8859-1,*,utf-8
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_TYPE] => application/json;charset=UTF-8
+    [HTTP_CONTENT_TYPE] => application/json;charset=UTF-8
+    [HTTP_TRACEPARENT] => 00-be906502c930e268c4fa77617401ad11-9f049d00fca39ffb-00
+    [HTTP_TRACESTATE] => 265f7333-c11c5b27@dt=fw4;8;fd3b2bcc;22ddea8;3;1;0;17d;9908;2h01;3hfd3b2bcc;4h022ddea8;5h01;7h9f049d00fca39ffb
+    [HTTP_X_DYNATRACE] => FW4;-1055106265;8;-46453812;36560552;-2147483645;643789619;381;6de7;2h01;3hfd3b2bcc;4h022ddea8;5h01;6hbe906502c930e268c4fa77617401ad11;7h9f049d00fca39ffb
+    [HTTP_X_DYNATRACE_APPLICATION] => v=2;appId=ea7c4b59f27d43eb;cookieDomain=safaricom.co.ke;rid=276720548;rpid=2145678755;en=ogp2awtf
+    [HTTP_X_DYNATRACE_REQUESTSTATE] => agentId=0xf4b43ec3fd3b2bcc&pathDepth=1
+    [HTTP_X_FORWARDED_FOR] => 10.195.4.95
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_RUXIT_FORWARDED_FOR] => 10.195.4.95
+    [REQUEST_TIME_FLOAT] => 1657876615.3812
+    [REQUEST_TIME] => 1657876615
+)

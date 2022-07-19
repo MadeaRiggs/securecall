@@ -1,0 +1,70 @@
+Array
+(
+    [ALLUSERSPROFILE] => C:\ProgramData
+    [APPDATA] => C:\Users\HP\AppData\Roaming
+    [APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL] => 1
+    [CHROME_CRASHPAD_PIPE_NAME] => \\.\pipe\crashpad_7820_DXKHHJPJDXRDLVCW
+    [CommonProgramFiles] => C:\Program Files\Common Files
+    [CommonProgramFiles(x86)] => C:\Program Files (x86)\Common Files
+    [CommonProgramW6432] => C:\Program Files\Common Files
+    [COMPUTERNAME] => DESKTOP-VNQTV1F
+    [ComSpec] => C:\WINDOWS\system32\cmd.exe
+    [DriverData] => C:\Windows\System32\Drivers\DriverData
+    [HOMEDRIVE] => C:
+    [HOMEPATH] => \Users\HP
+    [LOCALAPPDATA] => C:\Users\HP\AppData\Local
+    [LOGONSERVER] => \\DESKTOP-VNQTV1F
+    [NUMBER_OF_PROCESSORS] => 4
+    [OneDrive] => C:\Users\HP\OneDrive
+    [OneDriveConsumer] => C:\Users\HP\OneDrive
+    [ORIGINAL_XDG_CURRENT_DESKTOP] => undefined
+    [OS] => Windows_NT
+    [Path] => C:\Program Files\Common Files\Oracle\Java\javapath;C:\app\HP\product\21c\dbhomeXE\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Bitvise SSH Client;C:\Users\HP\scoop\shims;C:\Users\HP\anaconda;C:\Users\HP\anaconda\Library\mingw-w64\bin;C:\Users\HP\anaconda\Library\usr\bin;C:\Users\HP\anaconda\Library\bin;C:\Users\HP\anaconda\Scripts;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\HP\.dotnet\tools;C:\Users\HP\AppData\Roaming\npm;C:\Program Files (x86)\Nmap;C:\Users\HP\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.32.31326\bin\Hostx86\x86;
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [PROCESSOR_ARCHITECTURE] => AMD64
+    [PROCESSOR_IDENTIFIER] => Intel64 Family 6 Model 69 Stepping 1, GenuineIntel
+    [PROCESSOR_LEVEL] => 6
+    [PROCESSOR_REVISION] => 4501
+    [ProgramData] => C:\ProgramData
+    [ProgramFiles] => C:\Program Files
+    [ProgramFiles(x86)] => C:\Program Files (x86)
+    [ProgramW6432] => C:\Program Files
+    [PSModulePath] => C:\Users\HP\Documents\WindowsPowerShell\Modules;C:\Users\HP\AppData\Local\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell
+    [PUBLIC] => C:\Users\Public
+    [SESSIONNAME] => Console
+    [SystemDrive] => C:
+    [SystemRoot] => C:\WINDOWS
+    [TEMP] => C:\Users\HP\AppData\Local\Temp
+    [TMP] => C:\Users\HP\AppData\Local\Temp
+    [USERDOMAIN] => DESKTOP-VNQTV1F
+    [USERDOMAIN_ROAMINGPROFILE] => DESKTOP-VNQTV1F
+    [USERNAME] => HP
+    [USERPROFILE] => C:\Users\HP
+    [VBOX_MSI_INSTALL_PATH] => C:\Program Files\Oracle\VirtualBox\
+    [VS140COMNTOOLS] => C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+    [VS2022INSTALLDIR] => C:\Program Files\Microsoft Visual Studio\2022\Community
+    [VSCODE_AMD_ENTRYPOINT] => vs/workbench/api/node/extensionHostProcess
+    [VSCODE_CODE_CACHE_PATH] => C:\Users\HP\AppData\Roaming\Code\CachedData\b06ae3b2d2dbfe28bca3134cc6be65935cdfea6a
+    [VSCODE_CWD] => C:\Users\HP\AppData\Local\Programs\Microsoft VS Code
+    [VSCODE_HANDLES_UNCAUGHT_ERRORS] => true
+    [VSCODE_IPC_HOOK] => \\.\pipe\39abd41aff3157edea34b81c340f433c-1.69.1-main-sock
+    [VSCODE_NLS_CONFIG] => {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+    [VSCODE_PID] => 7820
+    [windir] => C:\WINDOWS
+    [XDEBUG_CONFIG] => client_port=1468
+    [XDEBUG_MODE] => debug,develop
+    [__COMPAT_LAYER] => DetectorsAppHealth
+    [PHP_SELF] => k:\documents\Securing_CallbackURLS\callback_url_old.php
+    [SCRIPT_NAME] => k:\documents\Securing_CallbackURLS\callback_url_old.php
+    [SCRIPT_FILENAME] => k:\documents\Securing_CallbackURLS\callback_url_old.php
+    [PATH_TRANSLATED] => k:\documents\Securing_CallbackURLS\callback_url_old.php
+    [DOCUMENT_ROOT] => 
+    [REQUEST_TIME_FLOAT] => 1657889203.4866
+    [REQUEST_TIME] => 1657889203
+    [argv] => Array
+        (
+            [0] => k:\documents\Securing_CallbackURLS\callback_url_old.php
+        )
+
+    [argc] => 1
+)
